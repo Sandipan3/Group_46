@@ -4,12 +4,12 @@ This repository contains all the **Selenium Web Automation assignments** complet
 
 ## 👥 Group Members
 
-| Roll No. | Name | Enrollment Number | Institution |
-|:---:|---|:---:|---|
-| 46 | **Sandipan Jha** | 12023002022006 | IEM, NEWTOWN |
-| 46 | **Saptarshi Mandal** | 12023002022009 | IEM, NEWTOWN |
-| 46 | **Shreya Roy** | 12023002022013 | IEM, NEWTOWN |
-| 46 | **Abhisek Dastidar** | 12023002022007 | IEM, NEWTOWN |
+ Name | Enrollment Number | Institution |
+|---|:---:|---|
+ **Sandipan Jha** | 12023002022006 | IEM, NEWTOWN |
+ **Saptarshi Mandal** | 12023002022009 | IEM, NEWTOWN |
+ **Shreya Roy** | 12023002022013 | IEM, NEWTOWN |
+ **Abhisek Dastidar** | 12023002022007 | IEM, NEWTOWN |
 
 ## 🎯 Objective
 
