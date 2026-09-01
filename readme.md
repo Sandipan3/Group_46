@@ -15,58 +15,11 @@ This repository contains all the **Selenium Web Automation assignments** complet
 
 This repository will contain the assignments completed during our Selenium automation practice, including:
 
-- Web Element Identification
-- Locators
-- WebDriver
-- Browser Navigation
-- Text Input and Buttons
-- Dropdowns
-- Checkboxes and Radio Buttons
-- Alerts
-- Frames / iFrames
-- Multiple Windows and Tabs
-- Cookies
-- JavaScript Execution
-- Screenshots
-- Mouse and Keyboard Actions
-- Tables
-- Scrolling
-- File Upload and Download
-- Dynamic Web Elements
-- And other Selenium automation exercises
-
-## 🛠️ Technologies Used
-
-- **Python**
-- **Selenium WebDriver**
-- **HTML**
-- **CSS**
-- **Google Chrome / ChromeDriver**
-
-## 📁 Repository Structure
-
-```text
-Group-46-Selenium/
-│
-├── Assignment-1/
-│   ├── index.html
-│   ├── style.css
-│   └── assignment1.py
-│
-├── Assignment-2/
-│   └── ...
-│
-├── Assignment-3/
-│   └── ...
-│
-└── README.md
-```
 
 ## 🎯 Objective
 
 The objective of this repository is to maintain and demonstrate the practical implementation of **web automation using Selenium with Python**, covering different web elements, locators, browser interactions, and automation techniques.
 
----
 
 ### Group 46
 
