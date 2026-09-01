@@ -11,9 +11,7 @@ This repository contains all the **Selenium Web Automation assignments** complet
 | 46 | **Shreya Roy** | 12023002022013 | IEM, NEWTOWN |
 | 46 | **Abhisek Dastidar** | 12023002022007 | IEM, NEWTOWN |
 
-## 📚 Assignments
-
-This repository will contain the assignments completed during our Selenium automation practice, including:
+This repository will contain the assignments completed during our Python Automation Course
 
 
 ## 🎯 Objective
