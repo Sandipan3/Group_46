@@ -54,7 +54,7 @@ Use a CSS wildcard selector to locate elements whose ID starts with `user_`.
 
 ---
 
-## Assignment 3: Child Nodes Using CSS
+## Assignment 4: Child Nodes Using CSS
 
 **Objective:**
 Identify and locate child or nested web elements using CSS child selectors and interact with the required elements.
@@ -64,8 +64,8 @@ Locate a button inside a specific `<div>` using a CSS child selector.
 
 ### 📂 Project Files
 
-[View Assignment 3 Project Files](ASSIGNMENT_4_PROJECT_LINK)
+[View Assignment 4 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-4)
 
 ### 🎥 Video Demonstration
 
-[Watch Assignment 3 Demonstration](ASSIGNMENT_4_VIDEO_LINK)
+[Watch Assignment 4 Demonstration](https://drive.google.com/file/d/1Eaiyp-FCIZhrc6GLkCUYtIAldx4PzY_6/view?usp=sharing)
