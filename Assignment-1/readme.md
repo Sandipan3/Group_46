@@ -32,11 +32,11 @@ Find all links on a webpage and print their text.
 
 ### 🎥 Video Demonstration
 
-[Watch Part 2 Demonstration](ASSIGNMENT_2_VIDEO_LINK)
+[Watch Part 2 Demonstration]([ASSIGNMENT_2_VIDEO_LINK](https://drive.google.com/file/d/1RqJgkTUueMOj75B5ZtYfpbhKkYCaRjpn/view?usp=sharing))
 
 ---
 
-## Assignment 2: CSS Selector Challenge
+## Assignment 3: CSS Selector Challenge
 
 **Objective:**
 Locate web elements using CSS Selectors, including selectors with wildcards for elements having varying or dynamic attribute values.
