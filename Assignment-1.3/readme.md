@@ -10,7 +10,7 @@ Locate the username field using ID, password field using Name, and a link using 
 
 ### 📂 Project Files
 
-[View Part 1 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-1)
+[View Part 1 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1.3/part-1)
 
 ### 🎥 Video Demonstration
 
@@ -28,7 +28,7 @@ Find all links on a webpage and print their text.
 
 ### 📂 Project Files
 
-[View Part 2 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-2)
+[View Part 2 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1.3/part-2)
 
 ### 🎥 Video Demonstration
 
@@ -46,7 +46,7 @@ Use a CSS wildcard selector to locate elements whose ID starts with `user_`.
 
 ### 📂 Project Files
 
-[View Assignment 3 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-3)
+[View Assignment 3 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1.3/part-3)
 
 ### 🎥 Video Demonstration
 
@@ -64,7 +64,7 @@ Locate a button inside a specific `<div>` using a CSS child selector.
 
 ### 📂 Project Files
 
-[View Assignment 4 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-4)
+[View Assignment 4 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1.3/part-4)
 
 ### 🎥 Video Demonstration
 
