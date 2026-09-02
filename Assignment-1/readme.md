@@ -50,7 +50,7 @@ Use a CSS wildcard selector to locate elements whose ID starts with `user_`.
 
 ### 🎥 Video Demonstration
 
-[Watch Assignment 3 Demonstration](ASSIGNMENT_3_VIDEO_LINK)
+[Watch Assignment 3 Demonstration](https://drive.google.com/file/d/15gVCKSqzT2KAkzQx2U_TVq1X5XE6zgRf/view)
 
 ---
 
