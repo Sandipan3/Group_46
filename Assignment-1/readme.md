@@ -46,7 +46,7 @@ Use a CSS wildcard selector to locate elements whose ID starts with `user_`.
 
 ### 📂 Project Files
 
-[View Assignment 2 Project Files](ASSIGNMENT_3_PROJECT_LINK)
+[View Assignment 2 Project Files](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-3)
 
 ### 🎥 Video Demonstration
 
