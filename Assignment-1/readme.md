@@ -28,7 +28,7 @@ Find all links on a webpage and print their text.
 
 ### 📂 Project Files
 
-[View Part 2 Project Files](ASSIGNMENT_2_PROJECT_LINK)
+[View Part 2 Project Files]([ASSIGNMENT_2_PROJECT_LINK](https://github.com/Sandipan3/Group_46/tree/main/Assignment-1/part-2))
 
 ### 🎥 Video Demonstration
 
